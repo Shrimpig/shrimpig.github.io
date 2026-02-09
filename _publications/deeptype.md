@@ -1,6 +1,6 @@
 ---
 title: "DEEPTYPE: Refining Indirect Call Targets with Strong Multi-layer Type Analysis"
-authors: "<strong>Tianrou Xia</strong>, Hong Hu, and Dinghao Wu"
+authors: "<strong>Tianrou Xia</strong>, Hong Hu, Dinghao Wu"
 pdf: "/files/deeptype.pdf"
 permalink: /publication/deeptype.md/
 date: 2024-08-14

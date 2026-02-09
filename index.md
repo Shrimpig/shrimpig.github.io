@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Home
+title: Tianrou Xia
 permalink: /
 author_profile: true
 ---

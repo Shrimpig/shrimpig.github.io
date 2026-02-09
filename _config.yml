@@ -12,8 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Tianrou Xia"
 title_separator          : "-"
 name                     : &name "Tianrou Xia"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://shrimpig.github.io
+description              : "Tianrou Xia's academic portfolio"
+url                      : "https://shrimpig.github.io"
 baseurl                  : ""
 repository               : "Shrimpig/shrimpig.github.io"
 
@@ -22,7 +22,7 @@ repository               : "Shrimpig/shrimpig.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images/profile.jpg
+  avatar: /images/profile.jpg
   name             : Tianrou Xia
   pronouns         : she/her
   bio              : "Short biography for the left-hand sidebar"

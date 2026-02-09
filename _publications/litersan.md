@@ -1,6 +1,6 @@
 ---
 title: "LiteRSan: Lightweight Memory Safety Via Rust-specific Program Analysis and Selective Instrumentation"
-authors: "Tianrou Xia, Kaiming Huang, Dongyeon Yu, Yuseok Jeon, Jie Zhou, Dinghao Wu, Taegyu Kim"
+authors: "<strong>Tianrou Xia</strong>, Kaiming Huang, Dongyeon Yu, Yuseok Jeon, Jie Zhou, Dinghao Wu, Taegyu Kim"
 pdf: "/files/litersan.pdf"
 permalink: /publication/litersan.md/
 date: 2025-09-19

@@ -11,20 +11,26 @@ layout: compress
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>CV | {{ site.name | default: site.title }}</title>
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | {{ site.name | default: site.title }}</title>
 
     {% include head.html %}
     {% include head/custom.html %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/cv-layout.css">
 
-    <!-- Redirect to CV PDF -->
-    <meta http-equiv="refresh" content="0; url={{ '/files/cv.pdf' | relative_url }}">
-    <link rel="canonical" href="{{ '/files/cv.pdf' | relative_url }}">
+    {% assign cv_pdf = "/files/cv.pdf" | relative_url %}
+
+    <meta http-equiv="refresh" content="0; url={{ cv_pdf }}">
+    <link rel="canonical" href="{{ cv_pdf }}">
+
+    <script>
+      window.location.replace("{{ cv_pdf }}");
+    </script>
   </head>
 
-  <body>
+  <body class="cv-layout">
     <p>
       Redirecting to CV…
-      <a href="{{ '/files/cv.pdf' | relative_url }}">Click here if not redirected.</a>
+      <a href="{{ cv_pdf }}">Click here if not redirected.</a>
     </p>
   </body>
 </html>

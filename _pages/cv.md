@@ -3,6 +3,7 @@ permalink: /cv/
 redirect_to: /files/cv.pdf
 ---
 
+<!-- 
 
 {% include base_path %}
 
@@ -59,3 +60,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

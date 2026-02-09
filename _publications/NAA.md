@@ -2,7 +2,7 @@
 layout: single
 title: "Toward A Network-Assisted Approach for Effective Ransomware Detection"
 collection: publications
-authors: "__Tianrou Xia__, Yuanyi Sun, Sencun Zhu, Zeeshan Rasheed, Khurram Shafique"
+authors: "<strong>Tianrou Xia</strong>, Yuanyi Sun, Sencun Zhu, Zeeshan Rasheed, Khurram Shafique"
 venue: "EAI Endorsed Transactions on Security and Safety"
 date: 2021-01-28
 permalink: /publication/NAA

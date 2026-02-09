@@ -3,7 +3,7 @@ title: "DEEPTYPE: Refining Indirect Call Targets with Strong Multi-layer Type An
 authors: "Tianrou Xia, Hong Hu, and Dinghao Wu"
 pdf: "/files/deeptype.pdf"
 permalink: /publication/deeptype.md/
-date: 2024
+date: 2024-08-14
 venue: "33rd USENIX Security Symposium (USENIX Security 24)"
 paperurl: "https://github.com/Shrimpig/shrimpig.github.io/blob/master/files/deeptype.pdf"
 ---

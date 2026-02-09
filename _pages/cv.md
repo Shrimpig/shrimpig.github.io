@@ -1,4 +1,5 @@
 ---
+layout: cv-layout
 permalink: /cv/
 redirect_to: /files/cv.pdf
 ---
